@@ -74,7 +74,7 @@ header::before {
     position: relative;
     top: 5px;
     left: 25px;
-    background-image: url(media/logo.png);
+    background-image: url(logo.png);
     background-size: contain;
 }
 

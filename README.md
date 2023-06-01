@@ -1,31 +1,9 @@
 # IMDB-clone app
-
-I am create a imdb clone using html css and javascript
-here you can search any movie
-i am create a search bar for searching movie
-
+A clone of IMDB.
+language use - HTML, CSS, JS. (BootStrap, OMDB API)
 hosted link = https://callforhack.github.io/IMDB/
 
-A IDMB clone 
+![image](https://github.com/CALLforHACK/IMDB/assets/88625027/f1aea742-e65c-45d4-a631-28b6f6e77aed)
 
-Tools used:
-HTML
-CSS
-Bootstrap
-JavaScript
-OMDB API
-
-Functionality
-Search movies with suggestions
-Click on Movie card for more info
-Add a movie to the favourites list
-Delete movie from the favourites list
-Add movie to watchlist
-
-
-Data
-suggestionList - an array which contains a list of movies based on searched keywords.
-favMovieArray - an array that gets movies from the local storage.
-movieName - local Storage item which contains the name of clicked movie card
 
 

@@ -4,7 +4,7 @@ I am create a imdb clone using html css and javascript
 here you can search any movie
 i am create a search bar for searching movie
 
-hosted link = 
+hosted link = https://callforhack.github.io/IMDB/
 
 A IDMB clone 
 
